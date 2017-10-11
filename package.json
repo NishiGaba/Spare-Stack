@@ -1,0 +1,22 @@
+{
+  "name": "spare-stack",
+  "version": "1.0.0",
+  "description": "Spare Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishiGaba/Spare-Stack.git"
+  },
+  "author": "NishiGaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishiGaba/Spare-Stack/issues"
+  },
+  "homepage": "https://github.com/NishiGaba/Spare-Stack#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
