@@ -17,7 +17,7 @@
     "url": "https://github.com/NishiGaba/Spare-Stack/issues"
   },
   "homepage": "https://github.com/NishiGaba/Spare-Stack#readme",
- "dependencies": {
+  "dependencies": {
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
